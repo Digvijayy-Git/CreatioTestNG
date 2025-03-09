@@ -116,7 +116,7 @@
 					<configuration>
 						<suiteXmlFiles>
 
-							<suiteXmlFile>exception.handling.ExceptionHandling</suiteXmlFile>
+							<suiteXmlFile>TestRunner/${TestRunner}</suiteXmlFile>
 
 						</suiteXmlFiles>
 					</configuration>
